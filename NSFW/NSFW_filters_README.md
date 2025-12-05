@@ -12,7 +12,7 @@ impossible. __Some sites that are difficult to scrape using IDM or other methods
 - No miner sites (malicious sites that run miners on your pc while you visit them).
 - No super low quality sites.
 - No thumbwall spam sites that take you to a rabbit hole of links to other rabbit hole sites.
-- No shitty forums (just the shitty ones filtered)
+- No shitty forums (just the shitty ones filtered, those that are paid by K2share or other paywall hosting sites to only use their services for uploads)
 - You can always click the "show" button to see all you have been filtering.
 
 ### THIS LIST WILL REMOVE TONS OF SITES, SO BE AWARE YOUR SEARCHES WILL BE REALLY SMALL IN RESULTS.
